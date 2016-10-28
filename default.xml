@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="myfox" fetch="ssh://git@github.com/xofym/"/>
+    <default revision="master" remote="myfox" sync-j="8"/>
+
+    <project name="AIO-Cam-App.git" path="AIO-Cam-App" />
+    <project name="MyfoxCamLib.git" path="MyfoxCamLib" revision="dev/jbt/poc_spi_lib"/>
+    <project name="EmbeddedSecurityApp.git" path="EmbeddedSecurityApp" />
+</manifest>
