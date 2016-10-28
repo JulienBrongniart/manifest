@@ -6,4 +6,5 @@
     <project name="AIO-Cam-App.git" path="AIO-Cam-App" />
     <project name="MyfoxCamLib.git" path="MyfoxCamLib" revision="dev/jbt/poc_spi_lib"/>
     <project name="EmbeddedSecurityApp.git" path="EmbeddedSecurityApp" />
+    <project name="AIO-Cam-Fw.git" path="AIO-Cam-Fw" />
 </manifest>
